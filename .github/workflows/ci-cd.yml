@@ -1,7 +1,7 @@
 name: DevOps-GitHubActions
 on: push
 jobs:
-    # Build Job
+# Build Job
   build:
     runs-on: ubuntu-latest
     steps:
