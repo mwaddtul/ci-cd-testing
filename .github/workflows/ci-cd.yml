@@ -4,5 +4,5 @@ jobs:
     sample-job:
     rush-on: ubuntu-latest
     steps:
-      name: my-step
+     -name: my-step
       run: echo "Hello World!"
